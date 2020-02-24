@@ -1,0 +1,63 @@
+.container {
+    border:1px black solid;
+    width:100%
+}
+
+.row {
+    border:1px black solid;
+
+}
+
+
+.pink {
+    background-color: pink;
+    height:200px;
+    
+
+}
+
+.orange {
+    background-color:orange;
+    
+
+}
+
+.grey {
+    background-color:grey;
+    
+
+}
+
+.row div {
+    
+
+}
+
+.pink1{
+    background-color: pink;
+    height:50px;
+}
+
+.brown{
+    background-color: brown;
+    height:50px;
+}
+
+.red{
+    background-color: red;
+    height:50px;
+}
+
+.lightblue{
+    background-color: lightblue;
+
+}
+
+.darkpink{
+    background-color: darkorchid;
+    height:100px;
+}
+.darkbrown{
+    background-color: darkred;
+    height:50px;
+}
