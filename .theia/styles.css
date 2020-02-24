@@ -1,0 +1,13 @@
+.container{
+    border:1px black;
+    background-color: red;
+}
+
+.row{
+    background-color: yellow;
+
+}
+
+.row div{
+    border:1px black solid;
+}
